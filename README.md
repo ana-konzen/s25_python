@@ -9,7 +9,7 @@ This repo is where I store my creative coding projects made with Python.
 - python drawing
 
 <br>
-<h5 align="center"><a href="anakonzen.com">.my website.</a></h5>
+<h5 align="center"><a href="https://anakonzen.com">.my website.</a></h5>
 
 <!-- ![crying lady](cri.jpg) -->
 <br>
